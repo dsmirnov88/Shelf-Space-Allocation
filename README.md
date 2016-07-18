@@ -5,7 +5,7 @@ This R package was developed as part of a research project at WHU - Otto Beishei
 
 The corresponding article was published in: _____________
 
-Follow the steps outlined below to perform your own shelf-space optimization: \n
+Follow the steps outlined below to perform your own shelf-space optimization:
 1. Data Import:
 1a. Use function ___ to export a set of MS Excel templates holding the required input data
 1b. Use function ___ to import your data and convert it to the format requried by the package
