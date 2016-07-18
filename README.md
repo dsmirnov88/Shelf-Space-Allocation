@@ -17,4 +17,4 @@ Follow the steps outlined below to perform your own shelf-space optimization:
 3b. Visually inspect the result and apply manual changes, if required, by modifying the allocation object
 
 
-For any questions or bug reports please contact Dmitry Smirnov @ dmitry.smirnov@whu.edu.
+For any questions or bug reports please contact Dmitry Smirnov: dmitry.smirnov@whu.edu.
