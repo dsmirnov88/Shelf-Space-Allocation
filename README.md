@@ -1,11 +1,11 @@
 # Shelf-Space-Allocation
 R package for retail shelf-space optimization
 
-This R package was developed as part of a research project at WHU - Otto Beisheim School of Management by the chair of Production Management. It contains a set of functions allowing for an end-to-end execution of a shelf-space optimization project. The solution was designed mainly for the use at grocery retailers in collaboration with a najor german retail chain.
+This R package was developed as part of a research project at WHU - Otto Beisheim School of Management by the chair of Production Management. It contains a set of functions allowing for an end-to-end execution of a shelf-space optimization project. The solution was designed mainly for the use at grocery retailers in collaboration with a major german retail chain.
 
 The corresponding article was published in: _____________
 
-Follow the steps outlined below to perform your own shelf-space optimization:
+Follow the steps outlined below to perform your own shelf-space optimization: \n
 1. Data Import:
 1a. Use function ___ to export a set of MS Excel templates holding the required input data
 1b. Use function ___ to import your data and convert it to the format requried by the package
