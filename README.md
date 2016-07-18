@@ -1,0 +1,3 @@
+# Shelf-Space-Allocation
+R package developed for retail shelf-space optimization
+...
